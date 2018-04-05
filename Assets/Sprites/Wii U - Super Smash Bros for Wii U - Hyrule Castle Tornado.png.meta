@@ -1,0 +1,1437 @@
+fileFormatVersion: 2
+guid: 6231a30c4cae1b249add56701d1c7519
+timeCreated: 1522869063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_0
+    21300002: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_1
+    21300004: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_2
+    21300006: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_3
+    21300008: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_4
+    21300010: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_5
+    21300012: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_6
+    21300014: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_7
+    21300016: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_8
+    21300018: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_9
+    21300020: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_10
+    21300022: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_11
+    21300024: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_12
+    21300026: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_13
+    21300028: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_14
+    21300030: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_15
+    21300032: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_16
+    21300034: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_17
+    21300036: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_18
+    21300038: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_19
+    21300040: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_20
+    21300042: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_21
+    21300044: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_22
+    21300046: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_23
+    21300048: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_24
+    21300050: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_25
+    21300052: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_26
+    21300054: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_27
+    21300056: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_28
+    21300058: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_29
+    21300060: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_30
+    21300062: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_31
+    21300064: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_32
+    21300066: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_33
+    21300068: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_34
+    21300070: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_35
+    21300072: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_36
+    21300074: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_37
+    21300076: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_38
+    21300078: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_39
+    21300080: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_40
+    21300082: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_41
+    21300084: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_42
+    21300086: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_43
+    21300088: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_44
+    21300090: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_45
+    21300092: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_46
+    21300094: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_47
+    21300096: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_48
+    21300098: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_49
+    21300100: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_50
+    21300102: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_51
+    21300104: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_52
+    21300106: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_53
+    21300108: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_54
+    21300110: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_55
+    21300112: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_56
+    21300114: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_57
+    21300116: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_58
+    21300118: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_59
+    21300120: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_60
+    21300122: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_61
+    21300124: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_62
+    21300126: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_63
+    21300128: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_64
+    21300130: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_65
+    21300132: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_66
+    21300134: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_67
+    21300136: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_68
+    21300138: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_69
+    21300140: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_70
+    21300142: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_71
+    21300144: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_72
+    21300146: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_73
+    21300148: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_74
+    21300150: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_75
+    21300152: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_76
+    21300154: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_77
+    21300156: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_78
+    21300158: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_79
+    21300160: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_80
+    21300162: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_81
+    21300164: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_82
+    21300166: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_83
+    21300168: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_84
+    21300170: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_85
+    21300172: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_86
+    21300174: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_87
+    21300176: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_88
+    21300178: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_89
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7473.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 7473.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 7473.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7216.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 7216.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 7216.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6959.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6959.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6959.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6702.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6702.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6702.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6445.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6445.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6445.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6188.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6188.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_17
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6188.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5931.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5931.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 5931.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5674.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5674.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 5674.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5417.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5417.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 5417.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5160.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5160.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_29
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 5160.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4903.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4903.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_32
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4903.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4646.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4646.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4646.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4389.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4389.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_38
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4389.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4132.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4132.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_41
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4132.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3875.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3875.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3875.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3618.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3618.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_47
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3618.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3361.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3361.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_50
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3361.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3104.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3104.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2847.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2847.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_56
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2847.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2590.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2590.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_59
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2590.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2333.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2333.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_62
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2333.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_64
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2076.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_65
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2076.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1819.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_67
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1819.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_68
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1819.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1562.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_70
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1562.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_71
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1562.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1305.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1305.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_74
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1305.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1048.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_77
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1048.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 791.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_80
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 791.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_82
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 534.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_83
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 534.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 277.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_86
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 277.3
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20.299988
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 20.299988
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wii U - Super Smash Bros for Wii U - Hyrule Castle Tornado_89
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 20.299988
+        width: 257.33334
+        height: 257.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
